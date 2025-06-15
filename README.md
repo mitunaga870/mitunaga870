@@ -1,13 +1,3 @@
-## PROFILE
-### 光永　和生
-- 芝浦工業大学　理工学研究科　電気電子情報工学専攻　無線通信ネットワーク研究室　所属
-- 趣味：ゲーム・開発・イラスト・キャンプ
-- メール：af21022@shibaura-it.ac.jp
-
-大学入学後、ローカルとクラウド上の動画ファイルの管理ソフトの開発から開発活動を開始しました。<br />
-バックエンドからフロントエンドまで幅広く触れるのと同時に、ドローンのネットワーク構築についての研究を行っています。<br />
-
-
 ## SKILLS
 ### LANGUAGE
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,wasm,cs,java,c,py,cpp,php,md)](https://skillicons.dev)
